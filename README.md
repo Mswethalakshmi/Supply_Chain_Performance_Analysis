@@ -32,3 +32,4 @@ Costs
 Data Exploration: Gain insights into the supply chain data by exploring production volumes, stock levels, order quantities, revenue, costs, lead times, shipping costs, transportation routes, risks, and sustainability factors.
 Visualization: Create informative visualizations to better understand the relationships and distributions within the data.
 Dashboard Development: Build an interactive Streamlit dashboard to visualize the key metrics and facilitate real-time analysis.
+
