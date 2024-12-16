@@ -33,4 +33,4 @@ Data Exploration: Gain insights into the supply chain data by exploring producti
 Visualization: Create informative visualizations to better understand the relationships and distributions within the data.
 Dashboard Development: Build an interactive Streamlit dashboard to visualize the key metrics and facilitate real-time analysis.
 
-Dashboard here [
+Dashboard here [supply chain Dashboard.pdf]
