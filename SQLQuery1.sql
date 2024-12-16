@@ -176,7 +176,7 @@ GROUP BY "product_type"
 SELECT SUM([Shipping_costs]) AS Total_Shipping_Cost 
 FROM supply_chain_data
 
-
+--
 SELECT [Location],
 	SUM([Shipping_costs])Total_Shipping_Cost 
 FROM supply_chain_data 
