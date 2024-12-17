@@ -2,7 +2,7 @@
 
 # Abstract
 Supply chain analytics is a valuable part of data-driven decision-making in various industries such as manufacturing, retail, healthcare, and logistics. It is the process of collecting, analyzing and interpreting data related to the movement of products and services from suppliers to customers.
-# Variables
+# features in the dataset:
 Product Type
 SKU
 Price
@@ -32,5 +32,17 @@ Costs
 Data Exploration: Gain insights into the supply chain data by exploring production volumes, stock levels, order quantities, revenue, costs, lead times, shipping costs, transportation routes, risks, and sustainability factors.
 Visualization: Create informative visualizations to better understand the relationships and distributions within the data.
 Dashboard Development: Build an interactive Streamlit dashboard to visualize the key metrics and facilitate real-time analysis.
+
+Data Cleaning and Preprocessing
+
+Revenue Analysis
+
+Total Quantity Analysis
+
+Average Lead Time Analysis
+
+Inventory Level Analysis
+
+
 
 
