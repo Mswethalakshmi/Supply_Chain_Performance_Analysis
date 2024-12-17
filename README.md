@@ -33,16 +33,15 @@ Data Exploration: Gain insights into the supply chain data by exploring producti
 Visualization: Create informative visualizations to better understand the relationships and distributions within the data.
 Dashboard Development: Build an interactive Streamlit dashboard to visualize the key metrics and facilitate real-time analysis.
 
-Data Cleaning and Preprocessing
+Ensured data accuracy and consistency.
 
-Revenue Analysis
+Evaluated revenue trends to identify high-performing products and locations.
 
-Total Quantity Analysis
+Assessed total quantity sold to monitor demand and supply.
 
-Average Lead Time Analysis
+Measured and optimized lead times across the supply chain.
 
-Inventory Level Analysis
-
+Maintained optimal inventory levels to balance supply and demand
 
 
 
