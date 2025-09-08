@@ -1,4 +1,4 @@
-# Supply Chain Project
+# End-to-End Supply Chain Analytics Project
 
 Supply chain analytics is a valuable part of data-driven decision-making in industries such as manufacturing, retail, healthcare, and logistics.  
 This project focuses on collecting, analyzing, and interpreting data related to the movement of products and services from suppliers to customers.
